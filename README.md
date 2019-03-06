@@ -1,4 +1,4 @@
-# eg-gi Online_Supplementary_document
+## Online_Supplementary_document_eg-gi  
 
 ## Comparative analysis of essential genes in prokaryotic genomic islands
 
@@ -11,3 +11,4 @@ _Scientific RepoRts | 5:12561 | DOi: 10.1038/srep12561_
 Zhang, X. et al. Comparative analysis of essential genes in prokaryotic genomic islands. Sci. Rep. 5, 12561; doi: 10.1038/srep12561 (2015).
 ```
 
+copyright©TUBIC http://origin.tubic.org
